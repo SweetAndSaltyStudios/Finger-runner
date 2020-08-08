@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TitleScreenACO
+  m_Controller: {fileID: 9100000, guid: eb5bef93a8db18346a06ca50da115d82, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3bc9d11f0177f7c448245c6366f98bbd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f4e4b6ff07d8b44f843e790cc1933e7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9159af6ff0698bd41aebc0cfdee8c8d4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf148718f17cfe248ac7c1da94bb2fd2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: da24a7ccee1910f43953a520f6ad8050, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ad15690821011a48bf40af3ee60a81a, type: 2}
